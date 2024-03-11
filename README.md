@@ -1,70 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Caike Bittin</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 600px;
-            margin: auto;
-            padding: 20px;
-        }
-        .social-links {
-            list-style: none;
-            padding: 0;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .social-links li {
-            display: inline;
-            margin: 0 10px;
-        }
-        .social-links li a {
-            color: #333;
-            text-decoration: none;
-            font-size: 1.5em;
-        }
-        h1, h2 {
-            text-align: center;
-        }
-        p {
-            text-align: justify;
-        }
-    </style>
-</head>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/caikebittin/)](https://www.linkedin.com/in/caike-bittin/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/caikebittin/)](https://www.instagram.com/caikebittin/)
 <body>
-    <header>
-        <h1>Caike Bittin</h1>
-    </header>
-    <div class="container">
-        <ul class="social-links">
-            <li><a href="link_para_o_linkedin" target="_blank"><img src="icone_linkedin.png" alt="LinkedIn"></a></li>
-            <li><a href="link_para_o_twitter" target="_blank"><img src="icone_twitter.png" alt="Twitter"></a></li>
-            <li><a href="link_para_o_website" target="_blank"><img src="icone_website.png" alt="Website"></a></li>
-        </ul>
-        <h2>Hello, I'm Caike Bittin! 👋</h2>
-        <p>I'm a Software Developer with experience in .Net Framework and SQL Server. My focus is on creating effective and innovative solutions to meet the needs of clients and businesses. Always seeking opportunities to grow and enhance my skills.</p>
-        <p>My approach is results-oriented and quality-focused. I'm open to challenges that allow me to expand my knowledge and contribute to exciting projects.</p>
-        <p>If you're looking for a committed and development-oriented professional, I'm available for discussions on how I can contribute to your projects. Let's connect and explore potential collaborations.</p>
-        <h2>Contact</h2>
-        <ul class="social-links">
-            <li>Email: seuemail@example.com</li>
-        </ul>
-    </div>
+<div lang="pt-br">
+<h2>💁 Olá! Meu nome é Caike Bittin, sou de São Paulo, Brasil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="30" alt="Brazil flag" /> 🇧🇷</h2>
+<p>Sou um Desenvolvedor de Software com experiência em .Net Framework e SQL Server. Meu foco é criar soluções eficazes e inovadoras para atender às necessidades de clientes e empresas. Estou sempre em busca de oportunidades para crescer e aprimorar minhas habilidades.</p>
+<p>Minha abordagem é orientada para resultados e focada na qualidade. Estou aberto a desafios que me permitam expandir meu conhecimento e contribuir para projetos empolgantes.</p>
+<p>Se você está procurando por um profissional comprometido e orientado para o desenvolvimento, estou disponível para discussões sobre como posso contribuir para seus projetos. Vamos nos conectar e explorar possíveis colaborações.</p>
+</div>
+<div lang="en">
+<h2>💁 Hello! My name is Caike Bittin, I'm from São Paulo, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="30" alt="Brazil flag" /> 🇺🇸</h2>
+<p>I'm a Software Developer with experience in .Net Framework and SQL Server. My focus is on creating effective and innovative solutions to meet the needs of clients and businesses. Always seeking opportunities to grow and enhance my skills.</p>
+<p>My approach is results-oriented and quality-focused. I'm open to challenges that allow me to expand my knowledge and contribute to exciting projects.</p>
+<p>If you're looking for a committed and development-oriented professional, I'm available for discussions on how I can contribute to your projects. Let's connect and explore potential collaborations.</p>
+</div>
+</div>
 </body>
-</html>
+
