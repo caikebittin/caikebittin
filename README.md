@@ -1,8 +1,8 @@
-<h2 align="center">👨‍💻 Bem vindo ao meu GitHub 👨‍💻</h2>
+<h1 align="center">👨‍💻 Bem vindo ao meu GitHub 👨‍💻</h1>
 
 ###
 
-<p align="center">Desenvolvedor .Net | C# | SQL Server</p>
+<h3 align="center">Desenvolvedor .Net | C# | SQL Server</h3>
 
 ###
 
